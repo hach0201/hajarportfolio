@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hajarportfolio/static/css/main.63ffa884.css",
+    "main.js": "/hajarportfolio/static/js/main.eaa77775.js",
+    "static/media/GreenVille.PNG": "/hajarportfolio/static/media/GreenVille.2e71cdee5ec11c46a15b.PNG",
+    "static/media/shopping.PNG": "/hajarportfolio/static/media/shopping.4102379095f11a4412ab.PNG",
+    "static/media/hero-dark.jpg": "/hajarportfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/hajarportfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "static/media/photo.jpg": "/hajarportfolio/static/media/photo.8c3242e42e2b4d17ca17.jpg",
+    "service-worker.js": "/hajarportfolio/service-worker.js",
+    "static/media/ChatApp.PNG": "/hajarportfolio/static/media/ChatApp.25e86767fb6cc4ab3fd6.PNG",
+    "static/media/GH.svg": "/hajarportfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/hajarportfolio/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/hajarportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hajarportfolio/index.html",
+    "main.63ffa884.css.map": "/hajarportfolio/static/css/main.63ffa884.css.map",
+    "main.eaa77775.js.map": "/hajarportfolio/static/js/main.eaa77775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ffa884.css",
+    "static/js/main.eaa77775.js"
+  ]
+}
